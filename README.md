@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashu chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashu chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/14.10.aashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="14.10.aashu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ashuF12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashu" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@ashuF12](https://www.youtube.com/@ashuF12)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashu_as222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashu_as222" height="30" width="40" /></a>
 </p>
 
