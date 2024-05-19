@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu-14-oct&label=Profile%20views&color=0e75b6&style=flat" alt="ashu-14-oct" /> </p>
 
-- 🌱 I’m currently learning **REACTJS**
+- 🌱 I’m currently practicing **DSA**
 
-- 💬 Ask me about **MERN, JAVA, DSA**
+- 💬 Ask me about **MERN STACK, JAVA, PYTHON, DOCKER, AWS, MICROSERVICES**
 
 - 📫 How to reach me **ashu.as222@gmail.com**
-
-- 👽 My portfolio **https://ashu-14-oct.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
