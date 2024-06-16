@@ -46,16 +46,12 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ashu-14-oct&theme=dark&show_icons=true&count_private=true" />
+  
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu-14-oct&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ashu-14-oct&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -117,4 +113,4 @@
 ----------------------------------------------------------------------
 Credit: [Ashu](https://github.com/Ashu-14-oct)
 
-Last Edited on: 03/6/2024
+Last Edited on: 16/6/2024
